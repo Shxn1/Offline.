@@ -1,0 +1,511 @@
+
+h2 {
+  color: #7C3C3C;
+  font-family: helvetica;
+  text-align: left;
+  font-size: 12pt;
+  position: relative;
+  top: 45%;
+  margin-left: 70px;
+  width: 290px;
+  word-wrap: break-word;
+}
+
+
+.index {
+  background-position: center;
+  background-size: 100% center;
+  background-repeat: no-repeat;
+ height: 100%;
+ width: 100%;
+ max-width: 100%;
+ overflow-x: hidden;
+}
+
+.gif1 {
+  position: absolute;
+  margin: 65px;
+  top: -10%;
+  margin-left: 100px;
+  width: 310px;
+  height: 260px;
+  overflow: hidden;
+
+}
+
+
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: black;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+}
+
+body {
+    overflow-x:hidden;
+    background: black;
+    background-size: cover;
+    full-width: 100%;
+}
+
+#fuzz2 {
+  position: static;
+overflow-x: hidden;
+background: black;
+background-image: url('fuzz2.jpg');
+background-size: cover;
+max-width: 100%;
+min-width: 870px;
+}
+
+#mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+    font-family: monospace;
+}
+
+.pixels {
+  position: absolute;
+  width: 30%
+  height: 100px;
+  bottom: 230px;
+  left: 30%;
+}
+
+#lockup {
+  color: white;
+  Background-color: black;
+  width: 30%;
+  height: 200px;
+  font-family: monospace;
+    background-position: center;
+    background-size: 100% center;
+    background-repeat: no-repeat;
+    height: 655px;
+    margin: -50px;
+  }
+
+.gif {
+  position: absolute;
+  bottom: -5%;
+  top: 0%;
+  margin-left: 480px;
+  background-size: 100% center;
+  background-repeat: no-repeat;
+  height: 1045px;
+  max-width: 100%;
+    overflow-x: hidden;
+    min-width: 870px;
+    background-image: url('censorshipgif2');
+}
+
+
+  .glitch {
+    min-width: 850px;
+    height: 1500px;
+    background-position: center;
+    background-size: 100% center;
+    background-repeat: no-repeat;
+    min-height: 1500px;
+    max-width: 100%;
+    overflow-x:hidden
+
+  }
+
+h3 {
+  color: white;
+  font-size: 36pt;
+  font-family: monospace;
+  text-align: left;
+  position: absolute;
+  top: 0%;
+  margin-left: 15%;
+}
+
+  p {
+    font-size: 11pt;
+    font-family: monospace;
+    text-align: left;
+  }
+
+  .red {
+    color: #7C3C3C;
+  }
+
+.video {
+  position: absolute;
+  width: 520px;
+  height: 305px;
+  bottom: -300px;
+  margin-left: 60px;
+  min-width: 350px;
+}
+
+.backbtn {
+  position: absolute;
+  font-family: monospace;
+  color: #FEFEFE;
+  bottom: -90%;
+  left: 5%;
+  text-decoration: none;
+  font-size: 16pt;
+  color: red;
+}
+
+.image1 {
+  position: absolute;
+  background-image: url('videounavailable.jpg');
+  right: -200%;
+  top: 415%;
+  height: 270px;
+  width: auto;
+  cursor: pointer;
+  min-width: 350px;
+}
+
+.image3 {
+  position: fixed;
+  right: 10%;
+  top: 10%;
+  height: 500px;
+  width: auto;
+  min-width: 870px;
+}
+
+.protestvideo {
+  position: absolute;
+  left: 60%;
+  top: 15%;
+  height: 270px;
+  width: auto;
+  min-width: 870px;
+}
+
+.China {
+  color: #020202;
+  font-family: monospace;
+  min-height: 1000px;
+  border-bottom: 0px;
+}
+
+
+
+.background-image3 {
+  position: absolute;
+  left: 10%;
+  top: 35%;
+  height: 650px;
+  width: 850px;
+}
+
+.background-image2 {
+position: absolute;
+left: 10%;
+top: 35%;
+height: 650px;
+width: 850px;
+}
+
+.background-image0 {
+position: absolute;
+left: 10%;
+top: 35%;
+height: 1050px;
+width: 950px;
+}
+
+.ethiopiavideo {
+  position: absolute;
+  right: 45%;
+  top: 105%;
+  width: 620px;
+  height: 405px;
+}
+.etharticle {
+  position: absolute;
+  left: 30%;
+  top: 25%;
+  height: 650px;
+  width: 850px;
+}
+
+.background-image4 {
+  height:1000px;
+  width: 100%;
+  background-position: center;
+  background-size: 100% center;
+  background-repeat: no-repeat;
+   min-height: 1500px;
+}
+
+.background-image {
+  width: 100%;
+  height: 1000px;
+  background-position: center;
+  background-size: 100% center;
+  background-repeat: no-repeat;
+  min-height: 1500px;
+  min-width: 850px;
+}
+
+.info2 {
+  font-family: monospace;
+  color: white;
+  font-size: 22px;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+h4 {
+  color: #E1E4EA;
+  font-size: 40pt;
+  font-family: monospace;
+  text-align: left;
+  width: auto;
+  position: absolute;
+  margin: 50px;
+  top: 1%;
+  margin-left: 85px;
+}
+
+.Ethiopia {
+   color: black;
+   min-height: auto;
+   font-family: monospace;
+   min-width:850px;
+}
+
+
+#info3 {
+  width: 300px;
+  margin-left: 60px;
+}
+
+h5 {
+  color: #E1E4EA;
+  font-size: 40pt;
+  font-family: monospace;
+  text-align: left;
+  width: auto;
+  position: absolute;
+  margin: 50px;
+  top: 1%;
+  margin-left: 85px;
+}
+
+audio {
+  max-width:200px;
+  position: absolute;
+  top:0;
+  right:0;
+}
+
+.quote {
+  color: #FEFEFE;
+  font-family: Helvetica;
+  top: 45%;
+  position: absolute;
+  margin-right: 205px;
+  text-align: left;
+}
+
+.dropbtn {
+    background-color: black;
+    color: white;
+    min-width: 197px;
+    padding: 16px 16px;
+    font-size: 16px;
+    position: absolute;
+    font-family: monospace;
+    cursor: pointer;
+    transform: translate(-0%, -1645%);
+    top: 685px;
+    margin-left: 208px;
+    display: block;
+    max-width; auto;
+    overflow-x: hidden;
+    min-width: 197px;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: grey;
+    outline:none
+}
+
+.dropdown-content {
+  display: none;
+    position: absolute;
+    background-color: grey;
+    min-width: 195px;
+    top: 485px;
+    margin-left: 209px;
+}
+
+.dropdown-content  a {
+    color: white;
+    padding: 12px 13px;
+    text-decoration: none;
+    font-family: monospace;
+    display: block;
+    transform: translate(-0%, -1620%);
+    position; absolute;
+}
+
+.dropdown a:hover {
+  background-color: #AEB6BF}
+
+.show {display:block;}
+
+.info {
+  font-family: monospace;
+  color: white;
+  font-size: 26px;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+#draggable {
+  width: 150px;
+  height: 150px;
+  padding: 0.5em;
+  position: absolute;
+  top: 40%;
+  margin-left: 60%;
+}
+
+.url1 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  color: blue;
+}
+
+.url2 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 9%;
+  left: 5%;
+  color: blue;
+}
+
+.url3 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 13%;
+  left: 5%;
+  color: blue;
+}
+
+.url4 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 17%;
+  left: 5%;
+  color: blue;
+}
+
+.url5 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 21%;
+  left: 5%;
+  color: blue;
+}
+
+.url6 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 25%;
+  left: 5%;
+  color: blue;
+}
+
+.url7 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  color: blue;
+}
+
+.url8 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 9%;
+  right: 5%;
+  color: blue;
+}
+
+.url9 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 13%;
+  right: 5%;
+  color: blue;
+}
+
+.url10 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 17%;
+  right: 5%;
+  color: blue;
+}
+
+.url11 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 21%;
+  right: 5%;
+  color: blue;
+}
+
+.url12 {
+  font-size: 18pt;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  color: blue;
+}
+
+.unavailable {
+  position: absolute;
+  bottom: 15%;
+  right: 14%;
+  height: 350px;
+  width: 450px;
+}
+
+.chinavideo {
+  position: fixed;
+  left: 55%;
+  top: 15%;
+  height: 350px;
+  width: 350px;
+  min-width: 620px;
+  max-width: 270px;
+}
+
+.chinarealvid {
+  position: absolute;
+  width: 520px;
+  height: 305px;
+  bottom: -550px;
+  margin-left: 60px;
+  min-width: 350px;
+}
+
+.unavailable3 {
+  position: fixed;
+  bottom: 15%;
+  right: 14%;
+  height: 350px;
+  width: 450px;
+}

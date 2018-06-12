@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+<!--<meta http-equiv="refresh" content="3;url=file:///Users/mac/Documents/GRAPHIC%20DESIGN%20YR2/PRP/ATOM/quote.html" />-->
+</head>
+<body>
+
+<div id="lockup">
+<div>
+  <img class="gif" src="censorshipgif2.gif" />
+  <img class="gif1" src="OFFLINE-HEADING.gif" />
+</div>
+
+  <div id="fuzz2"><img src="fuzz2.jpg"/></div>
+</div>
+<h2 class="quote">"WITHOUT PRIOR KNOWLEDGE OF EVENTS OR IDEAS,IT WOULD APPEAR THAT THEY NEVER EXISTED."
+    <br />
+    <br />
+    -Eric Schmidt
+  </div>
+</h2>
+</div>
+     <div class="dropup center-block" style="margin-left: 41%;">
+    <div class="dropup center-block" style="position:relative; top: 8px;">
+    <div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn">Enter</button>
+      <div id="myDropdown" class="dropdown-content">
+    <a href="egypt.html">Egypt</a>
+    <a href="China.html">China</a>
+    <a href="Ethiopia.html">Ethiopia</a>
+  </div>
+</div>
+
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>
